@@ -27,25 +27,8 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🐾 My Git Animals
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+coding)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyewang5617\&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyewang5617\&layout=compact)
-
----
-
-## 🐟 Aquarium
-
-![aquarium](https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg)
-
-
----
-
-## 🎯 Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=hyewang5617)
+![GitAnimals](https://render.gitanimals.org/farms/hyewang5617)
 
 ---
